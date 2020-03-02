@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 Django = "*"
+djangorestframework = "*"
+python-decouple = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
